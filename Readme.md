@@ -1,69 +1,46 @@
-<h1 align="center">👨‍💻 Fernando Agustín Moyano</h1>
+# 👋 ¡Hola! Soy Fernando Moyano
+<br>
 
-<p align="center">
-  <strong>Full Stack Developer</strong> — Node.js • React • PostgreSQL • TypeScript
-</p>
+<h3>Desarrollador Full Stack apasionado por la tecnología, la automatización y la creación de soluciones eficientes.  
+Trabajo principalmente con React, Node.js, TypeScript y herramientas modernas del ecosistema JavaScript.  
+Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con código limpio y funcional.</h3>
+<br>
 
-<p align="center">
-  📧 <a href="mailto:fernandomoyano21@gmail.com">fernandomoyano21@gmail.com</a> |
-  💼 <a href="https://www.linkedin.com/in/fernando-moyano/">LinkedIn</a>
-</p>
 
----
+# 🌐 Socials:
+<br>
 
-### 🚀 Stack Principal
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-a-moyano/)&emsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandoa.moyano@gmail.com)&emsp;[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/FernandoAMoyano)&emsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5493510000000)
+<br>
 
-<p align="center">
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  </span>
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  </span>
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  </span>
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  </span>
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
-  </span>
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  </span>
-</p>
+# 💻 Tech Stack:
+<br>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></span>
+  <span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></span>
+  <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
+  <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></span>
+  <span><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></span>
+  <span><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /></span>
+  <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></span>
+  <span><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></span>
+  <span><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" /></span>
+  <span><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></span>
+  <span><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></span>
+  <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></span>
+  <span><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /></span>
+  <span><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /></span>
+  <span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" /></span>
+  <span><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></span>
+  <span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /></span>
+  <span><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></span>
+</div>
+<br>
+## 🏆 GitHub Trophies
+<br>
+![](https://github-profile-trophy.vercel.app/?username=FernandoAMoyano&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 
-### 🧰 Herramientas que uso
+[![](https://visitcount.itsvg.in/api?id=FernandoAMoyano&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  </span>
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </span>
-  <span style="display:inline-block; margin: 4px;">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-  </span>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandomoyano21&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomoyano21&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  💡 Apasionado por construir soluciones eficientes, escalar productos y aprender cada día.
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
