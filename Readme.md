@@ -10,7 +10,7 @@ Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con có
 # 🌐 Socials:
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-a-moyano/)&emsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandoa.moyano@gmail.com)&emsp;[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/FernandoAMoyano)&emsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5493510000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-a-moyano/)&emsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandoa.moyano@gmail.com)&emsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5493510000000)
 <br>
 
 # 💻 Tech Stack:
@@ -38,9 +38,7 @@ Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con có
 <br>
 ## 🏆 GitHub Trophies
 <br>
-![](https://github-profile-trophy.vercel.app/?username=FernandoAMoyano&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Fernando Agustin Moyano](https://github-profile-trophy.vercel.app/?username=FernandoAMoyano&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-[![](https://visitcount.itsvg.in/api?id=FernandoAMoyano&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
