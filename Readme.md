@@ -40,10 +40,16 @@ Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con có
 
 # 🏀Github Topics
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;"><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoAMoyano&show_icons=true&locale=en" alt="FernandoAMoyano" /></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoAMoyano&show_icons=true&locale=en&layout=compact" alt="FernandoAMoyano" /></p></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoAMoyano&show_icons=true&locale=en" alt="FernandoAMoyano" /></p>
+
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoAMoyano&show_icons=true&locale=en&layout=compact" alt="FernandoAMoyano" /></p> -->
+
+</div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoAMoyano&" alt="FernandoAMoyano" /></p> -->
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FernandoAMoyano" alt="FernandoAMoyano" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FernandoAMoyano" alt="FernandoAMoyano" /></a></p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
