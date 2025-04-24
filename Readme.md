@@ -38,8 +38,9 @@ Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con có
 <br>
 
 ## 🏆 GitHub Trophies
-<br>
+
 ![Fernando Agustin Moyano](https://github-profile-trophy.vercel.app/?username=FernandoAMoyano&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
