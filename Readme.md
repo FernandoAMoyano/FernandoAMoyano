@@ -4,6 +4,7 @@
 Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con código limpio y funcional.</h3>
 <br>
 
+<!--
 # Lenguajes y herramientas
 
 <br>
@@ -29,6 +30,8 @@ Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con có
   <span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></span>
 </div>
 <br>
+-->
+
 
 # Contacto
 <br>
