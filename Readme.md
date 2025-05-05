@@ -40,15 +40,15 @@ Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con có
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-a-moyano/)&emsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandoa.moyano@gmail.com)&emsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5493510000000)
 <br>
 
+<!--
 # Github Topics
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoAMoyano&show_icons=true&locale=en" alt="FernandoAMoyano" /></p>
-
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoAMoyano&show_icons=true&locale=en&layout=compact" alt="FernandoAMoyano" /></p> -->
-
 </div>
+--> 
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoAMoyano&show_icons=true&locale=en&layout=compact" alt="FernandoAMoyano" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoAMoyano&" alt="FernandoAMoyano" /></p> -->
 
