@@ -1,5 +1,5 @@
 
-# 👋🏻 ¡Hola! Soy Fernando Moyano
+# 👋🏾¡Hola! Soy Fernando Moyano
 
 Desarrollador Full Stack apasionado por la tecnología, la automatización y la creación de soluciones eficientes.    
 Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con código limpio y funcional.
@@ -34,7 +34,7 @@ Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con có
 -->
 
 
-# 🫱🏻‍🫲🏾Contacto
+# 🫱🏽‍🫲🏽Contacto
 <br>
 
 
