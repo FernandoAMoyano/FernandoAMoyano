@@ -1,8 +1,9 @@
 
 # 👋🏾¡Hola! Soy Fernando Moyano
 
-Desarrollador Full Stack apasionado por la tecnología, la automatización y la creación de soluciones eficientes.    
-Siempre en busca de aprender algo nuevo y llevar las ideas a la realidad con código limpio y funcional.
+Me encuentro cursando una Tecnicatura Superior en Desarrollo de Software  y perfeccionando mis competencias en programación de manera continua en diferentes plataformas.
+
+Soy un interesado en el trabajo en equipo y en la comunicación continua como base solida para cumplir con los requerimientos y desafios que el mercado laboral demanda.
 
 
 <!--
