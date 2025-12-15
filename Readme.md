@@ -33,9 +33,10 @@ Soy un interesado en el trabajo en equipo y en la comunicación continua como ba
 </div>
 <br>
 -->
-
-
-# 🫱🏽‍🫲🏽Contacto
+ 
+<!--
+🫱🏽‍🫲🏽Contacto
+-->
 
 <!-- <br>
 
