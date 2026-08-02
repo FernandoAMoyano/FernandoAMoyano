@@ -1,7 +1,7 @@
 
 # 👋🏾¡Hola! Soy Fernando Moyano
 
-Me encuentro cursando una Tecnicatura Superior en Desarrollo de Software  y perfeccionando mis competencias en programación de manera continua en diferentes plataformas.
+Desarrollador Backend con foco en APIs REST, arquitectura limpia y testing automatizado. 3 años de trayectoria en el sector tecnológico como profesor de Desarrollo Full Stack y Test Automation, con experiencia en mentoría de proyectos y trabajo en equipo. Busco sumarme a un equipo de desarrollo para aportar solidez técnica y buenas prácticas de ingeniería.
 
 Soy un interesado en el trabajo en equipo y en la comunicación continua como base solida para cumplir con los requerimientos y desafios que el mercado laboral demanda.
 
