@@ -5,6 +5,8 @@ Desarrollador Backend con foco en APIs REST, arquitectura limpia y testing autom
 
 Soy un interesado en el trabajo en equipo y en la comunicación continua como base solida para cumplir con los requerimientos y desafios que el mercado laboral demanda.
 
+🔗Portfolio: https://fernandomoyano.dev/
+
 
 <!--
 # Lenguajes y herramientas
