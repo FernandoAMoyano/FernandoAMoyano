@@ -7,6 +7,9 @@ Soy un interesado en el trabajo en equipo y en la comunicación continua como ba
 
 💼Portfolio:  https://fernandomoyano.dev/
 
+<img width="1131" height="944" alt="2026-08-20_18h42_06" src="https://github.com/user-attachments/assets/c917180d-e093-4472-b959-dd8981e7fcc4" />
+
+
 
 <!--
 # Lenguajes y herramientas
