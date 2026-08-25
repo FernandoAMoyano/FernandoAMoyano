@@ -1,9 +1,11 @@
 
 # 👋🏾¡Hola! Soy Fernando Moyano
 
-Desarrollador Backend con foco en APIs REST, arquitectura limpia y testing automatizado. 3 años de trayectoria en el sector tecnológico como profesor de Desarrollo Full Stack y Test Automation, con experiencia en mentoría de proyectos y trabajo en equipo. Busco sumarme a un equipo de desarrollo para aportar solidez técnica y buenas prácticas de ingeniería.
+Desarrollador de Software con foco en la construcción de APIs REST, arquitectura limpia y testing automatizado. Tengo 3 años de trayectoria en el sector tecnológico como Profesor de Desarrollo Full Stack y Test Automation, con experiencia en mentoría de proyectos y trabajo en equipo.
 
-Soy un interesado en el trabajo en equipo y en la comunicación continua como base solida para cumplir con los requerimientos y desafios que el mercado laboral demanda.
+Soy un interesado en el trabajo en equipo y en la comunicación continua como base solida para cumplir con los requerimientos y desafios que el mercado laboral demanda contribuyendo con solidez técnica y buenas prácticas de ingeniería.
+
+
 
 💼Portfolio:  https://fernandomoyano.dev/
 
