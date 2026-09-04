@@ -1,5 +1,5 @@
 
-# 👋🏾¡Hola! Soy Fernando Moyano
+# 😁¡Hola! Soy Fernando Moyano
 
 Desarrollador de Software con foco en la construcción de APIs REST, arquitectura limpia y testing automatizado. Tengo 3 años de trayectoria en el sector tecnológico como Profesor de Desarrollo Full Stack y Test Automation, con experiencia en mentoría de proyectos y trabajo en equipo.
 
